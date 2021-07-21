@@ -1,0 +1,54 @@
+Git
+creating a repository:
+ 1. click on + symbol create new repository
+ 2. Enter repository name
+ 3. check Initialize this repository with README
+ 4. create
+--------------------------------------------------------------------------
+To clone from github to computer:
+ 1. Right click on the place where you want to get all files of the repository
+    And select git bash here.
+ 2. git clone url_from_repository
+ 3. A new folder with repository name is created and all files come into this folder.
+------------------------------------------------------------------------------------
+git status 
+To find status of the files red->untracked changes made/unstaged files.
+green -> tracked files i.e which are in staging area.
+If everything in git repository and ur computer matches, it says branch is uptodate.
+-----------------------------------------------------------------------------------
+git add filename.extension
+eg: git add sample.txt
+It adds the file to the git repository/staging area
+
+
+The files which are tracked/staged will be there into the next commit we do.
+If any changes are made to staging area files, then that file goes to untracked files. Hence, doesn't get pushed to repository.
+
+git add sample2.txt sample3.txt
+adding multile files to staging area.
+
+git add . 
+All files will be added for staging area.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+Commit messages:
+git commit -m "commit message1"
+
+--------------------------------------------------------------------------------------
+Push
+git push origin master
+	(or)
+git push
+	(or)
+git push -u origin master
+
+---------------------------------------------------------------------------------------
+Init
+creates a .git folder in the current folder so that we can do git operations.
+---------------------------------------------------------------------------------------
+Pull
+git pull url_from_repository_whose_contents_tobe_pulled
+--------------------------------------------------------------------
+
+
+
