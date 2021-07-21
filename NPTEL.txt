@@ -1,0 +1,62 @@
+NPTEL Lectures for GATE
+
+https://nptel.ac.in/
+
+Compare the GATE syllabus and see these videos and Slides.
+
+Compiler Design
+Slides: https://nptel.ac.in/courses/106104072/
+Videos: https://nptel.ac.in/courses/106108052/ , 
+https://nptel.ac.in/courses/106104123/ ,
+https://nptel.ac.in/courses/106108113/
+
+Computer Networks
+Slides: https://nptel.ac.in/courses/106105080/ ,
+https://nptel.ac.in/courses/106106091/
+Videos: https://nptel.ac.in/courses/106105081/
+
+Computer Organization and Architecture
+Slides: https://nptel.ac.in/courses/106103068/
+Videos: https://nptel.ac.in/courses/106106092/ ,
+https://nptel.ac.in/courses/106105163/ ,
+https://nptel.ac.in/courses/106103180/
+
+Programming & Datastructures :
+Videos:  https://nptel.ac.in/courses/106102064/ ,
+https://nptel.ac.in/courses/106104128/ ,
+https://nptel.ac.in/courses/106106130/ ,
+https://nptel.ac.in/courses/106106127/ ,
+https://nptel.ac.in/courses/106105085/
+Slides: https://nptel.ac.in/courses/106102066/
+
+Algorithms
+Videos: https://nptel.ac.in/courses/106101060/,
+https://nptel.ac.in/courses/106105157/ ,
+https://nptel.ac.in/courses/106106131/ ,
+https://nptel.ac.in/courses/106105164/
+
+Maths
+Videos: https://nptel.ac.in/courses/106106094/ ,
+https://nptel.ac.in/courses/106106183/ ,
+https://nptel.ac.in/courses/111107058/
+Slides : https://nptel.ac.in/courses/111101004/
+
+Database Management System
+Videos: https://nptel.ac.in/courses/106106093/ ,
+https://nptel.ac.in/courses/106105175/
+Slides: https://nptel.ac.in/courses/106106095/
+
+Digital Logic
+Slides: https://nptel.ac.in/courses/106108099/
+
+Theory Of Computation
+Videos: https://nptel.ac.in/courses/106105196/ ,
+https://nptel.ac.in/courses/106104148/ ,
+https://nptel.ac.in/courses/106104028/
+Slides: https://nptel.ac.in/courses/106103070/ ,
+https://nptel.ac.in/courses/106106049/
+
+Operating System
+Videos: https://nptel.ac.in/courses/106106144/ ,
+https://nptel.ac.in/courses/106102132/
+Slides: https://nptel.ac.in/courses/106108101/
