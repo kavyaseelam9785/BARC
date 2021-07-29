@@ -41,7 +41,7 @@ git push origin master
 git push
 	(or)
 git push -u origin master
-
+-u means upstream, here it is where I push by default
 ---------------------------------------------------------------------------------------
 Init
 creates a .git folder in the current folder so that we can do git operations.
