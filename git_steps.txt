@@ -36,11 +36,11 @@ git commit -m "commit message1"
 
 --------------------------------------------------------------------------------------
 Push
-git push origin master
+git push origin main
 	(or)
 git push
 	(or)
-git push -u origin master
+git push -u origin main
 -u means upstream, here it is where I push by default
 ---------------------------------------------------------------------------------------
 Init
