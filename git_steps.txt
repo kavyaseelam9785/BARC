@@ -72,5 +72,10 @@ In reality, they use meaningful names, like ticket no or fixes no etc
 git checkout branch_name
 To switch between branches.
 
+After creating a branch, we push it to remote repository. Now, we can see 
+a copy of main branch is made and all changes made reflected in the feature branch,
+and no changes in main branch.
+
+
 
 
