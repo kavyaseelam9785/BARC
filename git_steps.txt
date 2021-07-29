@@ -44,11 +44,33 @@ git push -u origin main
 -u means upstream, here it is where I push by default
 ---------------------------------------------------------------------------------------
 Init
+git init
 creates a .git folder in the current folder so that we can do git operations.
 ---------------------------------------------------------------------------------------
 Pull
 git pull url_from_repository_whose_contents_tobe_pulled
 --------------------------------------------------------------------
+git remote -v 
+To get all the remote repositories whuch are connected at present.
+--------------------------------------------------------------------
+Git Branching:
+
+Feature branch : At first it is same, but as u change the feature branch, the changes are made only to feature branch and no changes in main branch.
+Why?
+To avoid code breaking in the main branch.
+
+HotFix branch : branch where we need to fix bugs  and finaly merge to main branch.
+
+git branch
+It gives the current branch we are on.
+
+git checkout -b feature
+-b to create a new branch , followed by branch name
+Here, we created a branch called fetaure.
+In reality, they use meaningful names, like ticket no or fixes no etc
+
+git checkout branch_name
+To switch between branches.
 
 
 
