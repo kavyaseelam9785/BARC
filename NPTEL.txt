@@ -61,7 +61,7 @@ Videos: https://nptel.ac.in/courses/106106144/ ,
 https://nptel.ac.in/courses/106102132/
 Slides: https://nptel.ac.in/courses/106108101/
 
-The files are added say ...
+The files are added 
 I'm doing it locally....
 
 Line 1 added Thank you . Changed
