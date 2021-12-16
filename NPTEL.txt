@@ -1,6 +1,5 @@
 
 NPTEL Links
-Kavya
 https://nptel.ac.in/
 
 Compare the GATE syllabus and see these videos and Slides.
@@ -61,3 +60,5 @@ Operating System
 Videos: https://nptel.ac.in/courses/106106144/ ,
 https://nptel.ac.in/courses/106102132/
 Slides: https://nptel.ac.in/courses/106108101/
+
+The files are added say ...
